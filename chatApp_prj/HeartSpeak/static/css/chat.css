@@ -1,0 +1,19 @@
+#chat-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    max-height: 400px;
+    overflow-y: scroll;
+    margin-bottom: 20px;
+}
+
+.sent {
+    text-align: right;
+}
+
+.received {
+    text-align: left;
+}
+
+form {
+    margin-top: 20px;
+}
